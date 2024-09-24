@@ -1,0 +1,142 @@
+.subscibe-btn {
+  background-color: rgb(210, 2, 2);
+  color: white;
+  border: none;
+  height: 35px;
+  width: 100px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 8px;
+}
+
+.join-btn {
+  background-color: rgb(249, 238, 238);
+  border-color: rgb(51, 143, 242);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(0, 123, 255);
+  height: 35px;
+  width: 65px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 8px;
+}
+
+.tweet-btn {
+  background-color: rgb(19, 151, 239);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 80px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 8px;
+}
+
+.req-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 40px;
+  width: 120px;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.signup-btn {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  height: 36px;
+  width: 100px;
+  margin: 8px;
+  cursor: pointer;
+}
+.getstarted-btn {
+  background-color: rgb(121, 80, 179);
+  color: white;
+  border: none;
+  height: 40px;
+  width: 100px;
+  border-radius: 4px;
+  margin: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.download-btn {
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 2px;
+  width: 100px;
+  height: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.apply-btn {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 210px;
+  border-radius: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 6px;
+  cursor: pointer;
+}
+.save-btn {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 18px;
+  border-color: rgb(10, 102, 194);
+  border-width: 1px;
+  height: 36px;
+  width: 80px;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.container1 {
+  margin: 8px;
+  margin-bottom: 30px;
+}
+.h1 {
+  margin: 8px;
+  margin-bottom: 30px;
+}
+.h2 {
+  color: rgb(0, 118, 0);
+  margin: 8px;
+}
+.p {
+  margin: 8px;
+}
+
+.addtocart-btn {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  height: 36px;
+  width: 160px;
+  border-radius: 20px;
+  margin: 8px;
+  cursor: pointer;
+}
+.buy-btn {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  border-radius: 18px;
+  height: 36px;
+  width: 160px;
+  cursor: pointer;
+}
