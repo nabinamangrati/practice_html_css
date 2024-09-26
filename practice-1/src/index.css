@@ -2,12 +2,15 @@
   background-color: rgb(210, 2, 2);
   color: white;
   border: none;
-  height: 35px;
-  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   border-radius: 3px;
   cursor: pointer;
   margin: 8px;
   transition: opacity 0.15s;
+  vertical-align: top;
 }
 
 .subscibe-btn:hover {
@@ -24,12 +27,15 @@
   border-style: solid;
   border-width: 1px;
   color: rgb(0, 123, 255);
-  height: 35px;
-  width: 65px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
   border-radius: 3px;
   cursor: pointer;
   margin: 8px;
   transition: background-color 0.15s, color 0.15s;
+  vertical-align: top;
 }
 
 .join-btn:hover {
@@ -45,13 +51,16 @@
   background-color: rgb(19, 151, 239);
   color: white;
   border: none;
-  height: 36px;
-  width: 80px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
   border-radius: 18px;
   font-weight: bold;
   font-size: 15px;
   cursor: pointer;
   margin: 8px;
+  vertical-align: top;
   transition: box-shadow 0.15s;
 }
 .tweet-btn:hover {
@@ -62,10 +71,13 @@
   background-color: black;
   color: white;
   border: none;
-  height: 40px;
-  width: 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   margin: 8px;
   cursor: pointer;
+  vertical-align: top;
   transition: opacity 0.15s;
 }
 
@@ -79,8 +91,10 @@
   border: none;
   border-radius: 6px;
   font-weight: bold;
-  height: 36px;
-  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   margin: 8px;
   cursor: pointer;
   transition: opacity 0.15s;
@@ -93,8 +107,10 @@
   background-color: rgb(121, 80, 179);
   color: white;
   border: none;
-  height: 40px;
-  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   border-radius: 4px;
   margin: 8px;
   font-weight: bold;
@@ -111,8 +127,10 @@
   border-width: 1px;
   border-style: solid;
   border-radius: 2px;
-  width: 100px;
-  height: 40px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
   font-weight: bold;
   cursor: pointer;
   transition: background-color 0.15s, color 0.15s;
@@ -125,8 +143,10 @@
   background-color: rgb(10, 102, 194);
   color: white;
   border: none;
-  height: 36px;
-  width: 210px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   border-radius: 18px;
   font-weight: bold;
   cursor: pointer;
@@ -141,15 +161,17 @@
   background-color: white;
   color: rgb(10, 102, 194);
   font-weight: bold;
+  border-width: 1px;
   border-style: solid;
   border-radius: 18px;
   border-color: rgb(10, 102, 194);
-  border-width: 1px;
-  height: 36px;
-  width: 80px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
   margin: 8px;
   cursor: pointer;
-  transition: background-color 0.15s, border-width 0.15s;
+  transition: background-color 0.15s, border-width 0.07s;
 }
 .save-btn:hover {
   background-color: rgb(206, 230, 249);
@@ -159,6 +181,9 @@
 .container1 {
   margin: 8px;
   margin-bottom: 30px;
+}
+.container1 a:hover {
+  color: rgb(57, 92, 6);
 }
 .h1 {
   margin: 8px;
@@ -176,8 +201,10 @@
   background-color: rgb(255, 216, 20);
   color: black;
   border: none;
-  height: 36px;
-  width: 160px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
   border-radius: 20px;
   margin: 8px;
   cursor: pointer;
@@ -194,8 +221,10 @@
   color: black;
   border: none;
   border-radius: 18px;
-  height: 36px;
-  width: 160px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
   cursor: pointer;
   transition: background-color 0.15;
 }
